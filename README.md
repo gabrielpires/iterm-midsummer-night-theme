@@ -12,8 +12,8 @@ This color schema was inspired by the Visual Studio theme with the same name dev
 * Download the midsummer-night-v1.itermcolors
 * Open your iTerm
 * Go to Settings -> Profile -> Colors
-* Bottom Left Color Preset
-* Click on Import, load the file midsummer-night-v1.itermcolors downloaded previously.
+* Bottom Right -> Color Preset
+* Inside of the select box, choose Import, load the file midsummer-night-v1.itermcolors
 
 ## Preview:
 
