@@ -5,7 +5,7 @@
 * **Site**: [https://gabrielpires.com.br](https://gabrielpires.com.br)
 * **Current Version**: v1
 
-This color schema was inspired by the Visual Studio theme with the same name, developed by [abrielleing](https://github.com/abrielleing/midsummer-night).
+This color schema was inspired by the Visual Studio theme with the same name developed by: [abrielleing](https://github.com/abrielleing/midsummer-night).
 
 **Installation:** 
 
@@ -15,18 +15,19 @@ This color schema was inspired by the Visual Studio theme with the same name, de
 * Bottom Left Color Preset
 * Click on Import, load the file midsummer-night-v1.itermcolors downloaded previously.
 
-**Demo**:
-
-![](https://github.com/gabrielpires/iterm-midsummer-night-theme/blob/master/assets/iterm-midsummer-night-sample.gif?raw=true)
-
-**Preview**:
+## Preview:
 
 ![](https://github.com/gabrielpires/iterm-midsummer-night-theme/blob/master/assets/iterm-midsummer-night-sample.png?raw=true)
 
-**Color Pallet**:
+## Demo:
+
+![](https://github.com/gabrielpires/iterm-midsummer-night-theme/blob/master/assets/iterm-midsummer-night-sample.gif?raw=true)
+
+## Color Pallet:
 
 ![](https://github.com/gabrielpires/iterm-midsummer-night-theme/blob/master/assets/colors-midsummer-night-v1.png?raw=true)
 
-Suggestion? Improvements?
-Reach me out on twitter [https://twitter.com/gabrielpires](https://twitter.com/gabrielpires)
+### Suggestion? Bugs?
+
+Reach me out on twitter [https://twitter.com/gabrielpires](https://twitter.com/gabrielpires) or open a issue 🤓.
 
