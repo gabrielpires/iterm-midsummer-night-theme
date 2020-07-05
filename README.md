@@ -16,6 +16,7 @@ This color schema was inspired by the Visual Studio theme with the same name, de
 * Click on Import, load the file midsummer-night-v1.itermcolors downloaded previously.
 
 **Demo**:
+
 ![](https://github.com/gabrielpires/iterm-midsummer-night-theme/blob/master/assets/iterm-midsummer-night-sample.gif?raw=true)
 
 **Preview**:
